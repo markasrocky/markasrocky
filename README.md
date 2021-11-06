@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markasrocky
-- 👀 I’m interested in Astronamy
+- 👀 I’m interested in Astronomy
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me @grazhulis
